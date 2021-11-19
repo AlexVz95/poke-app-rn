@@ -32,7 +32,7 @@ const SpriteComponent = ({url}) => {
           <Text>Se esta cargando el sprite</Text>
         )}
       </View>
-      {renderAbilities(data.abilities)}
+      {/* {renderAbilities(data.abilities)} */}
     </>
   );
 };
